@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spate-ar
 - 👀 I’m a student at California University of Pennsylvania graduating in May 2022
-- 🌱 I’m currently learning Data Structures, Fortran, Computer Architecture, but have successfully have experience in Java, Python, SQL, C, C++, Arduino
+- 🌱 I’m currently learning Operating Systems and Language Translations, but have successfully have experience in Java, Python, SQL, C, C++, Fortran, Arduino
 as well as Linux and Windows OS
 
 <!---
